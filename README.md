@@ -1,5 +1,17 @@
 # Cyber Security Roadmap
 
+---
+
+This is a compilation of resources I gathered while learning the essential skills needed to excel in cybersecurity.
+
+I initially created this as a personal guide to help me navigate the various paths in the field, but then I thought, why not share it with everyone?
+
+This roadmap is still a work in progress, as I'm continuously learning and updating it with new information. It’s not an exhaustive list, but it’s a great starting point.
+
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/)
+---
+
+
 # Chapter 1: Introduction and Overview
 
 ## 1.1 Purpose of the Roadmap
