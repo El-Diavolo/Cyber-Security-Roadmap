@@ -89,12 +89,12 @@ Understanding IT and networking is vital in cybersecurity. Here are the key topi
 
 - **Resources**: To dive deeper, look for free online courses on platforms like Coursera, edX, or YouTube. Many tutorials and videos explain these concepts clearly, making it easier to grasp the fundamentals.
 
-#### References
+#### References and Where to Learn More
 - Cisco Networking Academy. (n.d.). [Networking Basics](https://www.netacad.com/courses/packet-tracer/networking-fundamentals)
-- CompTIA. (n.d.). [Networking Concepts](https://www.comptia.org/content/guides/networking-concepts)
-- OpenLearn. (n.d.). [The OSI Model](https://www.open.edu/openlearn/science-maths-technology/what-is-the-osi-model/content-section-0?active-textbook-id=6150)
-- Microsoft Docs. (n.d.). [Introduction to DNS](https://docs.microsoft.com/en-us/windows-server/networking/dns/dns-overview)
-  
+- Youtube CCNA Course by NetworkChuck [CCNA-Cource](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+- TryHackMe Networking Fundamentals lab [Network Fundamentals](https://tryhackme.com/module/network-fundamentals)
+- Cybrary Lab [Cisco Certified Network Associate (CCNA 200-301) Labs](https://www.cybrary.it/practice-lab/cisco-certified-network-associate-ccna)
+
 ### Introduction to Cybersecurity Concepts
 Once you have a grasp of IT and networking, it’s time to explore key cybersecurity concepts:
 
@@ -107,10 +107,11 @@ Once you have a grasp of IT and networking, it’s time to explore key cybersecu
 
 - **Threat Models**: Learn about various threat models that describe potential risks and vulnerabilities in systems. Familiarize yourself with common threats like malware, phishing, denial-of-service attacks, and insider threats.
 
-#### References
-- Stallings, W. (2017). *Network Security Essentials: Applications and Standards*. Pearson.
+#### References and Where to Learn More
+- Youtube [What is Cyber Security](https://www.youtube.com/watch?v=inWWhr5tnEA)
 - Rouse, M. (2020). [CIA Triad](https://www.techtarget.com/search/query?q=CIA+triad)
-- NIST. (2018). *Framework for Improving Critical Infrastructure Cybersecurity*. National Institute of Standards and Technology.
+- Cyber Security Concepts [The 5 Concepts of Cyber Security](https://www.ebcgroup.co.uk/news-insights/the-5-concepts-of-cyber-security)
+- Try Hack Me Lab [Introduction to Cyber Security](https://tryhackme.com/module/introduction-to-cyber-security)
 
 ### Linux Fundamentals
 Linux is a critical operating system in the cybersecurity field, so it’s essential to become familiar with it:
@@ -121,10 +122,12 @@ Linux is a critical operating system in the cybersecurity field, so it’s essen
 
 - **Basic Security Tools**: Explore essential Linux security tools like `iptables` for firewall management, `fail2ban` for protecting against brute-force attacks, and `Wireshark` for network traffic analysis.
 
-#### References
+#### References and Where to Learn More
 - Linux Foundation. (n.d.). [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
-- Red Hat. (n.d.). [Linux File System Basics](https://www.redhat.com/sysadmin/linux-file-system-basics)
-- Hacking Articles. (n.d.). [Top 10 Linux Security Tools](https://www.hackingarticles.in/top-10-linux-security-tools/)
+- OverTheWire [Linux Challenges](https://overthewire.org/wargames/)
+- Geeksforgeeks [Linux/Unix Tutorial](https://www.geeksforgeeks.org/linux-tutorial/)
+- TCM Security Free Course [Linux 100: Fundamentals](https://academy.tcm-sec.com/p/linux-fundamentals)
+
 
 ### Programming and Scripting
 Programming skills are vital for automating tasks and understanding how software vulnerabilities work:
@@ -135,10 +138,11 @@ Programming skills are vital for automating tasks and understanding how software
 
 - **Other Relevant Languages**: Depending on your area of interest, you may want to explore other languages, such as JavaScript for web security or C/C++ for understanding lower-level programming concepts and software vulnerabilities.
 
-#### References
-- Python Software Foundation. (n.d.). [Python Documentation](https://docs.python.org/3/)
-- Codecademy. (n.d.). [Learn Bash](https://www.codecademy.com/learn/learn-the-command-line)
-- W3Schools. (n.d.). [Learn JavaScript](https://www.w3schools.com/js/)
+#### References and Where to Learn More
+- Youtube Bash Scripting [Bash Scripting Tutorial](https://www.youtube.com/watch?v=tK9Oc6AEnR4&pp=ygUOQmFzaCBzY3JpcHRpbmc%3D)
+- Codecademy [Learn Bash](https://www.codecademy.com/learn/learn-the-command-line)
+- TCM Security Free Course [Programming 100:Fundamentals](https://academy.tcm-sec.com/p/programming-100-fundamentals)
+ - Codecademy [Learn Python](https://www.codecademy.com/catalog/language/python)
 
 By building a strong foundational knowledge in these areas, you'll be better equipped to tackle more advanced cybersecurity topics and challenges in your career.
 
