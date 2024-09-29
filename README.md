@@ -2,13 +2,13 @@
 
 ---
 
-This is a compilation of resources I gathered while learning the essential skills needed to excel in cybersecurity.
+**This is a compilation of resources I gathered while learning the essential skills needed to excel in cybersecurity.**
 
-I initially created this as a personal guide to help me navigate the various paths in the field, but then I thought, why not share it with everyone?
+**I initially created this as a personal guide to help me navigate the various paths in the field, but then I thought, why not share it with everyone?**
 
-This roadmap is still a work in progress, as I'm continuously learning and updating it with new information. It’s not an exhaustive list, but it’s a great starting point.
+**This roadmap is still a work in progress, as I'm continuously learning and updating it with new information. It’s not an exhaustive list, but it’s a great starting point.**
 
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/)
+**🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/)**
 ---
 
 
@@ -63,7 +63,7 @@ Define clear goals for your journey. Set short-term targets, like finishing a sp
 ### Tracking Progress
 Keep an eye on what you’ve learned and what’s next. Use study logs, task management apps, or GitHub projects to track your progress. Regularly review your goals and tweak your learning plan as needed.
 
-## 2. Foundational Knowledge
+# 2. Foundational Knowledge
 
 So now let us start on the foundational knowledge you need for cybersecurity. This section will cover essential concepts in IT and networking, key cybersecurity principles, Linux fundamentals, and basic programming skills, all of which are crucial for building a solid foundation for your cybersecurity career.
 
