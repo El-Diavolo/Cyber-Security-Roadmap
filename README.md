@@ -30,7 +30,7 @@
 3. [Pathways into Cybersecurity](#chapter-3-pathways-into-cybersecurity)  
    3.1 [Governance, Risk, and Compliance (GRC)](#31-governance-risk-and-compliance-grc)  
    3.2 [Blue Team (Defensive Security)](#32-blue-team-defensive-security)  
-   3.3 [Red Team (Offensive Security)](#33-red-team-offensive-security) 
+   3.3 [Red Team (Offensive Security)](#33-red-team-offensive-security)  
    3.4 [Infrastructure Security](#34-infrastructure-security)
 
 ---
