@@ -8,7 +8,7 @@
 
 **This roadmap is still a work in progress, as I'm continuously learning and updating it with new information. It’s not an exhaustive list, but it’s a great starting point.**
 
-**🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/)** [Instagram](https://www.instagram.com/hamood.marhubi/)
+**🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/) or at [Instagram](https://www.instagram.com/hamood.marhubi/)**
 
 ---
 
