@@ -1091,4 +1091,4 @@ This roadmap is a community-driven effort. Your feedback is valuable, whether it
 
 ---
 
-## *By following these best practices and continually updating your knowledge, you will not only build a solid foundation in cybersecurity but also stay relevant as the field evolves. Remember, cybersecurity is a marathon, not a sprint, and the key to success is consistency, continuous learning, and community engagement.*
+#### *By following these best practices and continually updating your knowledge, you will not only build a solid foundation in cybersecurity but also stay relevant as the field evolves. Remember, cybersecurity is a marathon, not a sprint, and the key to success is consistency, continuous learning, and community engagement.*
