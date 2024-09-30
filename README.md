@@ -32,18 +32,6 @@
    3.2 [Blue Team (Defensive Security)](#32-blue-team-defensive-security)  
    3.3 [Red Team (Offensive Security)](#33-red-team-offensive-security)  
 
-4. [Common Tools Used by the Red Team](#common-tools-used-by-the-red-team)  
-   - Discovery and Reconnaissance  
-   - Application Testing  
-   - Active Directory Exploitation  
-   - Password Cracking and Hash Cracking  
-   - Wireless Network Testing  
-   - Post-Exploitation and Persistence  
-   - Social Engineering  
-   - Miscellaneous  
-
-5. [Platforms for Red Teaming](#platforms-for-red-teaming)  
-
 ---
 
 # Chapter 1: Introduction and Overview
