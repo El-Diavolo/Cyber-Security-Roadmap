@@ -9,8 +9,42 @@
 **This roadmap is still a work in progress, as I'm continuously learning and updating it with new information. It’s not an exhaustive list, but it’s a great starting point.**
 
 **🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/)** [Instagram](https://www.instagram.com/hamood.marhubi/)
+
 ---
 
+## Table of Contents
+
+1. [Introduction and Overview](#chapter-1-introduction-and-overview)  
+   1.1 [Purpose of the Roadmap](#11-purpose-of-the-roadmap)  
+   1.2 [Why Cybersecurity?](#12-why-cybersecurity)  
+   1.3 [Structure of the Roadmap](#13-structure-of-the-roadmap)  
+   1.4 [Key Tips for Beginners](#14-key-tips-for-beginners)  
+   1.5 [Setting Goals and Tracking Progress](#15-setting-goals-and-tracking-progress)  
+
+2. [Foundational Knowledge](#chapter-2-foundational-knowledge)  
+   2.1 [Basics of IT and Networking](#basics-of-it-and-networking)  
+   2.2 [Introduction to Cybersecurity Concepts](#introduction-to-cybersecurity-concepts)  
+   2.3 [Linux Fundamentals](#linux-fundamentals)  
+   2.4 [Programming and Scripting](#programming-and-scripting)  
+
+3. [Pathways into Cybersecurity](#chapter-3-pathways-into-cybersecurity)  
+   3.1 [Governance, Risk, and Compliance (GRC)](#31-governance-risk-and-compliance-grc)  
+   3.2 [Blue Team (Defensive Security)](#32-blue-team-defensive-security)  
+   3.3 [Red Team (Offensive Security)](#33-red-team-offensive-security)  
+
+4. [Common Tools Used by the Red Team](#common-tools-used-by-the-red-team)  
+   - Discovery and Reconnaissance  
+   - Application Testing  
+   - Active Directory Exploitation  
+   - Password Cracking and Hash Cracking  
+   - Wireless Network Testing  
+   - Post-Exploitation and Persistence  
+   - Social Engineering  
+   - Miscellaneous  
+
+5. [Platforms for Red Teaming](#platforms-for-red-teaming)  
+
+---
 
 # Chapter 1: Introduction and Overview
 
@@ -667,6 +701,55 @@ Certifications help validate the skills required to work on a Red Team. Here is 
 
 5. **Red Team Lead**:
    - The Red Team Lead oversees the entire red teaming process, ensuring the team works cohesively to simulate advanced attack scenarios. They manage engagements, report to senior leadership, and ensure the team aligns with the organization’s objectives.
+
+---
+
+### Platforms for Red Teaming
+
+Red Teaming requires practical, hands-on experience to master offensive security techniques. Below are some of the best platforms offering real-world labs, challenges, and learning environments for honing Red Team skills:
+
+---
+
+#### **Platforms for Red Teaming**
+
+1. **[Hack The Box](https://www.hackthebox.com/)**:
+   - One of the most popular platforms for learning offensive security, Hack The Box offers a wide variety of virtual machines that simulate real-world environments. Users can practice penetration testing, exploitation, and privilege escalation in increasingly complex scenarios. The **Pro Labs** offer advanced challenges that mimic corporate networks, perfect for Red Team skill-building.
+
+2. **[TryHackMe](https://tryhackme.com/)**:
+   - TryHackMe offers guided challenges and virtual labs focused on offensive security skills. With structured learning paths such as the **Offensive Pentesting** or **Red Teaming** paths, TryHackMe is beginner-friendly but also contains advanced content for professionals. The labs cover web application hacking, privilege escalation, and real-world attack vectors.
+
+3. **[Pentester Lab](https://pentesterlab.com/)**:
+   - Pentester Lab provides hands-on exercises to help users learn how to exploit various vulnerabilities. The platform covers topics such as file inclusion, SQL injection, and deserialization attacks, giving Red Teamers the practical experience needed to exploit web and application vulnerabilities.
+
+4. **[picoCTF](https://picoctf.org/)**:
+   - picoCTF is a free, beginner-friendly platform for learning offensive security and capture-the-flag (CTF) challenges. Although targeted at students, picoCTF is a great platform for Red Teamers of all levels to practice real-world challenges that include binary exploitation, reverse engineering, and web vulnerabilities.
+
+5. **[PortSwigger Web Security Academy](https://portswigger.net/web-security)**:
+   - The **PortSwigger Web Security Academy** is a free platform that offers labs and tutorials specifically focused on web application security. It covers a wide range of vulnerabilities, including SQL injection, Cross-Site Scripting (XSS), authentication issues, and more. It's an excellent resource for Red Teamers interested in mastering web application exploitation.
+
+6. **[VulnHub](https://www.vulnhub.com/)**:
+   - VulnHub provides intentionally vulnerable virtual machines for security enthusiasts to practice on. Red Teamers can download these VMs and simulate attacks in a safe environment, allowing for practice with real-world vulnerabilities across various platforms.
+
+7. **[Blue Team Labs Online (Red Team Section)](https://www.blueteamlabs.online/)**:
+   - Although primarily focused on Blue Team activities, Blue Team Labs Online offers challenges that allow Red Teamers to practice offensive skills in a competitive environment. Challenges include penetration testing, exploitation, and advanced network vulnerabilities.
+
+8. **[CTFtime](https://ctftime.org/)**:
+   - **CTFtime** is a hub for various Capture the Flag (CTF) competitions happening around the world. CTFs are a popular way for Red Teamers to practice offensive security skills in a fun and competitive setting. The platform aggregates upcoming CTF events, providing Red Teamers with many opportunities to participate in both beginner and advanced CTF challenges.
+
+9. **[OverTheWire](https://overthewire.org/wargames/)**:
+   - OverTheWire offers a variety of "wargames" designed to teach cybersecurity concepts through interactive challenges. Red Teamers can sharpen their skills in areas like Linux privilege escalation, command injection, and system exploitation by completing OverTheWire’s progressive levels of difficulty.
+
+10. **[CyberSecLabs](https://cyberseclabs.co.uk/)**:
+
+- CyberSecLabs provides hands-on, real-world vulnerable labs for practicing Red Team skills. The platform features vulnerable machines to test offensive security techniques such as network exploitation, web application attacks, and privilege escalation. Labs are available for different skill levels, from beginner to advanced.
+
+11. **[Crackmes](https://crackmes.one/)**:
+
+- Crackmes focuses on reverse engineering challenges. It allows Red Teamers to practice binary exploitation, code reversing, and patching exercises, providing great experience in reverse engineering and malware analysis.
+
+---
+
+These platforms provide free or community-driven environments where Red Team professionals can build practical skills in offensive security. Whether you're just starting out or looking to refine your expertise, these platforms offer hands-on labs and challenges that mimic real-world attack scenarios.
 
 ---
 
