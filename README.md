@@ -34,7 +34,7 @@
    3.1 [Governance, Risk, and Compliance (GRC)](#31-governance-risk-and-compliance-grc)  
    3.2 [Blue Team (Defensive Security)](#32-blue-team-defensive-security)  
    3.3 [Red Team (Offensive Security)](#33-red-team-offensive-security)  
-   3.4 [Infrastructure Security](#34-infrastructure-security)
+   3.4 [Infrastructure Security](#34-infrastructure-security)  
    3.5 [Cloud Security](#35-cloud-security)
 
 ---
