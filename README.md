@@ -8,9 +8,10 @@
 
 **This roadmap is still a work in progress, as I'm continuously learning and updating it with new information. It’s not an exhaustive list, but it’s a great starting point.**
 
-**🔗 Connect with me at:
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/) 
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamood.marhubi/)**
+**🔗 Connect with me at:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamood-al-marhoubi-8baaa1260/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamood.marhubi/)
 
 ---
 
@@ -34,6 +35,7 @@
    3.2 [Blue Team (Defensive Security)](#32-blue-team-defensive-security)  
    3.3 [Red Team (Offensive Security)](#33-red-team-offensive-security)  
    3.4 [Infrastructure Security](#34-infrastructure-security)
+   3.5 [Cloud Security](#35-cloud-security)
 
 ---
 
@@ -285,8 +287,6 @@ Professionals working in GRC play a strategic role, ensuring that cybersecurity 
    - The CCO is responsible for ensuring that the organization complies with all relevant laws, regulations, and internal policies. This role typically requires extensive experience in compliance management.
 
 ---
-
-
 
 ## 3.2 Blue Team (Defensive Security)
 
@@ -905,5 +905,133 @@ These YouTube tutorials provide hands-on, practical knowledge to help you unders
 ### Why Infrastructure Security is Crucial for Cybersecurity
 
 Infrastructure Security is foundational to the overall cybersecurity strategy of any organization. Without proper defenses in place to protect networks, servers, and endpoints, organizations are highly vulnerable to attacks. Infrastructure Security professionals ensure that the IT environment remains robust, resilient, and able to withstand internal and external threats. By securing the physical and digital infrastructure, they help minimize the risk of breaches and ensure the continuous operation of critical systems.
+
+---
+
+## 3.5 Cloud Security
+
+**Cloud Security** focuses on protecting data, applications, and infrastructures involved in cloud computing. As more organizations migrate to the cloud, securing these environments has become a top priority. Cloud Security involves ensuring that security policies, controls, and technologies are in place to protect the cloud environment from potential threats like data breaches, unauthorized access, and service disruptions.
+
+### What is Cloud Security?
+
+Cloud Security involves a set of strategies, policies, and controls to protect cloud-based systems, applications, and data. These controls help to safeguard data, prevent unauthorized access, and ensure compliance with regulations. Cloud Security is essential for both public and private cloud infrastructures, including SaaS (Software as a Service), PaaS (Platform as a Service), and IaaS (Infrastructure as a Service) environments.
+
+Some key aspects of Cloud Security include:
+
+- **Identity and Access Management (IAM)**: Ensuring that users have the appropriate level of access to cloud resources.
+- **Data Encryption**: Protecting sensitive data both at rest and in transit to prevent unauthorized access.
+- **Network Security**: Securing virtual networks within cloud environments to prevent unauthorized access and data breaches.
+- **Security Monitoring**: Continuous monitoring of cloud environments for potential security incidents.
+- **Compliance**: Ensuring that the cloud environment adheres to industry standards and regulatory requirements like GDPR, HIPAA, and PCI-DSS.
+
+---
+
+### Key Responsibilities of Cloud Security Professionals
+
+Cloud Security professionals are responsible for protecting an organization's cloud infrastructure and data. Their key responsibilities include:
+
+1. **Managing Identity and Access Controls**:
+   - Cloud Security professionals implement strong identity and access management (IAM) policies to control who has access to cloud resources. Tools like **AWS IAM**, **Azure Active Directory**, and **Google Cloud Identity** are used to manage user permissions and roles securely.
+
+2. **Encrypting Data**:
+   - Data encryption is a critical responsibility in Cloud Security. Professionals use encryption methods to protect sensitive data at rest and in transit. This ensures that even if data is intercepted, it remains unreadable to unauthorized users. Cloud platforms like **AWS KMS (Key Management Service)** and **Azure Key Vault** provide encryption management tools.
+
+3. **Implementing Network Security**:
+   - Cloud Security professionals use virtual firewalls, network access controls, and segmentation to secure the cloud network. Tools like **AWS VPC**, **Azure Network Security Groups (NSGs)**, and **Google Cloud VPC** are used to control traffic flow and protect cloud resources.
+
+4. **Monitoring and Incident Response**:
+   - Continuous monitoring of cloud environments is crucial to detect any security breaches. Tools like **AWS CloudTrail**, **Azure Security Center**, and **Google Cloud Security Command Center** provide real-time visibility into cloud activity, helping professionals respond quickly to incidents.
+
+5. **Compliance Management**:
+   - Cloud Security professionals ensure that the organization’s cloud environment complies with regulatory requirements and industry standards such as GDPR, HIPAA, and PCI-DSS. This involves implementing the necessary security controls, conducting regular audits, and preparing for external compliance reviews.
+
+---
+
+### Core Skills Required for Cloud Security
+
+1. **Understanding of Cloud Platforms**:
+   - Cloud Security professionals must be familiar with major cloud platforms like **Amazon Web Services (AWS)**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**. Knowledge of their security tools, services, and best practices is essential.
+
+2. **Identity and Access Management (IAM)**:
+   - Strong skills in managing identities, roles, and permissions within cloud environments are crucial. Understanding tools like **AWS IAM**, **Azure AD**, and **Google Cloud Identity** is important for controlling access.
+
+3. **Data Encryption**:
+   - Professionals need expertise in encryption technologies for securing data at rest and in transit. Familiarity with services like **AWS KMS**, **Azure Key Vault**, and encryption protocols (TLS, SSL) is necessary.
+
+4. **Network Security**:
+   - Knowledge of cloud-based networking and how to secure virtual private networks (VPNs), firewalls, and network segmentation is crucial. Cloud networking tools like **AWS VPC**, **Azure NSGs**, and **Google Cloud VPC** are commonly used.
+
+5. **Compliance and Regulatory Knowledge**:
+   - Cloud Security professionals need to understand regulatory frameworks such as **GDPR**, **HIPAA**, and **PCI-DSS** to ensure cloud environments meet compliance requirements.
+
+6. **Incident Detection and Response**:
+   - Proficiency in using security monitoring tools like **AWS CloudTrail**, **Azure Security Center**, and **Google Cloud Security Command Center** is essential for detecting and responding to security incidents.
+
+---
+
+### Common Tools Used in Cloud Security
+
+1. **Identity and Access Management (IAM)**:
+   - **[AWS IAM](https://aws.amazon.com/iam/)**: A tool for managing user permissions and controlling access to AWS services.
+   - **[Azure Active Directory (Azure AD)](https://azure.microsoft.com/en-us/services/active-directory/)**: Microsoft’s identity management service for controlling user access.
+   - **[Google Cloud Identity](https://cloud.google.com/identity)**: Google Cloud’s identity and access management service.
+
+2. **Data Encryption**:
+   - **[AWS KMS (Key Management Service)](https://aws.amazon.com/kms/)**: A managed service for creating and controlling encryption keys.
+   - **[Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/)**: A tool for securely storing and managing keys, secrets, and certificates.
+   - **[Google Cloud KMS](https://cloud.google.com/security-key-management)**: A tool for managing cryptographic keys and encryption for Google Cloud data.
+
+3. **Network Security**:
+   - **[AWS VPC](https://aws.amazon.com/vpc/)**: Amazon’s Virtual Private Cloud service for securing network traffic and resources.
+   - **[Azure Network Security Groups (NSGs)](https://learn.microsoft.com/en-us/azure/virtual-network/security-overview)**: A security feature that controls inbound and outbound traffic to Azure resources.
+   - **[Google Cloud VPC](https://cloud.google.com/vpc)**: Google’s Virtual Private Cloud service for managing network security.
+
+4. **Security Monitoring**:
+   - **[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)**: A service for monitoring AWS accounts and logging activity.
+   - **[Azure Security Center](https://azure.microsoft.com/en-us/services/azure-defender/)**: A tool for assessing and improving security across Azure resources.
+   - **[Google Cloud Security Command Center](https://cloud.google.com/security-command-center)**: A centralized platform for monitoring security in Google Cloud environments.
+
+---
+
+### Certifications for Cloud Security Professionals
+
+Certifications help validate expertise in cloud security. Here are some top certifications for cloud security professionals:
+
+1. **[AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/)**:
+   - A certification for professionals who want to specialize in securing AWS cloud environments. It covers topics like data protection, infrastructure security, incident response, and identity management.
+
+2. **[Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)**:
+   - This certification focuses on implementing security controls, managing identity and access, and protecting data, applications, and networks in Azure environments.
+
+3. **[Google Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)**:
+   - Designed for professionals who manage and secure Google Cloud environments. It covers key areas like network security, data protection, and security incident management in the cloud.
+
+4. **[Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)**:
+   - This certification, provided by (ISC)², covers best practices and industry standards for cloud security, focusing on data protection, infrastructure security, and compliance.
+
+---
+
+### Platforms for Enhancing Cloud Security Skills
+
+1. **[AWS Skill Builder](https://explore.skillbuilder.aws/)**:
+   - A free learning platform provided by AWS, offering hands-on labs and courses to learn AWS cloud security.
+
+2. **[Microsoft Learn](https://learn.microsoft.com/en-us/training/)**:
+   - A learning platform from Microsoft that offers free courses on securing Azure environments, IAM, and other Azure security topics.
+
+3. **[Google Cloud Training](https://cloud.google.com/training)**:
+   - Google Cloud provides various learning paths and hands-on labs to help users gain skills in Google Cloud security.
+
+4. **[TryHackMe](https://tryhackme.com/)**:
+   - TryHackMe offers cloud security labs focusing on AWS, Azure, and other cloud environments, allowing learners to practice real-world cloud security scenarios.
+
+5. **[Hack The Box](https://www.hackthebox.com/)**:
+   - Hack The Box features challenges that simulate cloud-based infrastructure, helping users learn offensive and defensive cloud security techniques.
+
+---
+
+### Why Cloud Security is Crucial for Cybersecurity
+
+With the increasing reliance on cloud-based infrastructure, Cloud Security is essential to protect sensitive data and ensure the secure operation of applications and systems. Cloud environments introduce new security challenges, such as managing identity and access, encrypting data, and securing virtual networks. Cloud Security professionals play a critical role in safeguarding these environments, ensuring compliance, and responding quickly to incidents.
 
 ---
